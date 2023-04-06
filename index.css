@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+}
+.red,h3{
+color: red;
+}
+#blue{
+    color: blue;
+}
+footer > p{
+    color: rgb(255, 230, 0);
+}
+a:active{
+    color: green;
+    
+}
+a:visited{
+    color: red;
+}
+a:link{
+    color: cadetblue;
+}
+a:hover{
+    text-transform: uppercase;
+}
